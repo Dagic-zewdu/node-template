@@ -1,7 +1,7 @@
 {
-  "name": " Hotel-Booking-Backend",
+  "name": "node-typescript-template",
   "version": "1.0.0",
-  "description": "Hotel-Booking-Backend",
+  "description": "Node typescript template",
   "main": "index.js",
   "scripts": {
     "dev": "npx nodemon ./index.ts",
